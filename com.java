@@ -1,5 +1,9 @@
 public class com {
     public static void main(String[] args) {
-        System.out.println("asd");
+        for (int num = 1; num <= 10; num += 1){
+            System.out.println(num);
+        }
+
+
     }
 }
