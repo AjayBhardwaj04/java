@@ -9,7 +9,7 @@ public class Fibo {
         int a = 0;
         int b = 1;
         int count = 2;
-//Fibonachiye num. counts
+//Fibonacci  num. counts
         while (count <= n){
             int temp = b;
             b = b + a;
